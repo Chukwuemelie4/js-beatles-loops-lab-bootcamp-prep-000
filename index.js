@@ -20,5 +20,5 @@ return mus
 }
 
 function iLoveTheBeatles() {
-  
+  var empty= []
 }
