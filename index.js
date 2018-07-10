@@ -22,9 +22,9 @@ return mus
 function iLoveTheBeatles(num) {
   var empty= []
   do {
-    num=++num
+  
     empty.push("I love the Beatles!")
-
+  num=++num
   } while (num.length<15);
 return empty
 }
