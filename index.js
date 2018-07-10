@@ -11,7 +11,7 @@ return mus
 function johnLennonFacts(facts) {
 var mus=[]
 var i=0
-while (facts<facts.length) {
+while (i<facts.length) {
   var array= facts[i] +"!!!"
   mus.push(array)
 
