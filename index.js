@@ -19,6 +19,12 @@ while (i<facts.length) {
 return mus
 }
 
-function iLoveTheBeatles() {
+function iLoveTheBeatles(num) {
   var empty= []
+  do {
+    num=++num
+    empty.push("I love the Beatles!")
+    
+  } while (num.length<15);
+return empty
 }
