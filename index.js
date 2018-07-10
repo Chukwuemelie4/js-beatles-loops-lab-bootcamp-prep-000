@@ -12,10 +12,10 @@ function johnLennonFacts(facts) {
 var mus=[]
 var i=0
 var go = facts
-while (i<go.length) {
+while (b<go.length) {
   var array= facts[i] +"!!!"
   mus.push(array)
-  var b= i++
+  var b= ++i
 }
 return array
 }
