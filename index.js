@@ -17,5 +17,5 @@ while (i<facts.length) {
  var i= ++i
 }
 
-return array
+return mus
 }
