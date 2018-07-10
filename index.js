@@ -11,11 +11,10 @@ return mus
 function johnLennonFacts(facts) {
 var mus=[]
 var i=0
-var go = facts
-while (b<go.length) {
+while (facts<facts.length) {
   var array= facts[i] +"!!!"
   mus.push(array)
-  var b= ++i
+  b= ++i
 }
 return array
 }
