@@ -16,6 +16,9 @@ while (i<facts.length) {
   mus.push(array)
  var i= ++i
 }
-
 return mus
+}
+
+function iLoveTheBeatles() {
+  
 }
