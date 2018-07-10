@@ -14,7 +14,8 @@ var i=0
 while (facts<facts.length) {
   var array= facts[i] +"!!!"
   mus.push(array)
-  b= ++i
+  
 }
+var b= ++i
 return array
 }
